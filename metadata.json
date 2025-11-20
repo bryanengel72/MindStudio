@@ -1,0 +1,5 @@
+{
+  "name": "AgentFlix Portfolio",
+  "description": "A Netflix-style portfolio website showcasing AI agents with a built-in Gemini-powered assistant.",
+  "requestFramePermissions": []
+}
